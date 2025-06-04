@@ -28,7 +28,7 @@ This website demonstrates a professional landing page for a fictional bank — "
 ![Scroll Animation](./ScreenShots/operations-section.png)
 
 ### 🔹 Testimonials Slider
-![Slider](./ScreenShots/testimonial-section.png)
+![Slider](./ScreenShots/Testimonail-section.png)
 
 ### 🔹 Footer Section
 ![Scroll Animation](./ScreenShots/footer-section.png)
